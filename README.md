@@ -1,4 +1,4 @@
-# Simple_Calculator_C
+# Simple_Calculator
 A menu-driven calculator in C that performs arithmetic operations, factorial, power and percentage calculations.
 # Simple Calculator in C
 
